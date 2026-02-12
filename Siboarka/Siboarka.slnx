@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Sandbox/Sandbox.vcxproj" />
+  <Project Path="Siboarka/Siboarka.vcxproj" />
+</Solution>
